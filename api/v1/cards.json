@@ -1,0 +1,1020 @@
+{
+  "cards": {
+      "good": [
+          {
+              "title": "Dirt",
+              "description": "If you rub it into your wounds you gain 2 hit points"
+          },
+          {
+              "title": "Scroll of Twofold",
+              "description": "Your next attack happens twice as if time looped for a brief moment"
+          },
+          {
+              "title": "Eggshell of Protection",
+              "description": "The next attack against you causes a giant egg to appear around you momentarily and that attack must break through the shell before causing damage. +2 to AC"
+          },
+          {
+              "title": "Group Hug",
+              "description": "Don't say anything. Jarred gives meaningful looks to the party members and they all gain 5 temp HP"
+          },
+          {
+              "title": "The Match of Funky Flame",
+              "description": "When lit, every creature in a 25-foot radius begins to spontaneously dance until the match burns out or is extinguished"
+          },
+          {
+              "title": "Leech of Faith",
+              "description": "A magical leech lands on an enemy of your choice, sucking its life force and reducing it's health by 2d6. If you can grab the leech and squeeze it, you'll regain that same amount of HP"
+          },
+          {
+              "title": "Lightning Strike in the Laboratory",
+              "description": "The recipient gets a free dash action to use during an upcoming turn"
+          },
+          {
+              "title": "Element of Surprise",
+              "description": "Roll a d6. Element appears on the battlefield based on the roll"
+          },
+          {
+              "title": "Eye of...",
+              "description": "An eye of the Beholder appears on the battlefield"
+          },
+          {
+              "title": "Coin of Certainty",
+              "description": "You receive a normal looking silver coin that when tossed always lands on heads"
+          },
+          {
+              "title": "Flumphy Bank",
+              "description": "Porcelin piggy bank shaped like a Flumphy that contains 10d20 gold coins. Must break to get the coins."
+          },
+          {
+              "title": "Borrowed Power of the One",
+              "description": "Dodge your next attack"
+          },
+          {
+              "title": "Amulet's Influence",
+              "description": "Next skill check is a natural 20"
+          },
+          {
+              "title": "Siren Scream",
+              "description": "Chosen opponent loses one round of action and is knocked prone"
+          },
+          {
+              "title": "Weird Beard",
+              "description": "You grow a beard that lasts for 10 minutes. Roll a d4 to see what the beard is made of (1 - Feathers, 2 - Ice, 3 - Light, 4 - Noodles)"
+          },
+          {
+              "title": "Health Potion",
+              "description": "Receive a health potion"
+          },
+          {
+              "title": "Third Eye",
+              "description": "Your next insight check is a a natural 20"
+          },
+          {
+              "title": "Me First",
+              "description": "Next encounter you do not roll initiative. Instead, your initiative is +1 to the highest initiative roll of the encounter."
+          },
+          {
+              "title": "False Teeth",
+              "description": "On your next attack your teeth fly out of your mouth and do 1d4 plus your strength modifier"
+          },
+          {
+              "title": "Stinkberry",
+              "description": "A very stinky brown berry appears and the melee attack against you is at a disadvantage"
+          },
+          {
+              "title": "Charge into (or out) of the fray",
+              "description": "Speed is doubled for 1d4 rounds. First attack on one enemy has advantage or disadvantage if the attack requires an enemy saving throw"
+          },
+          {
+              "title": "Scroll of I-know-you-are-but-what-am-I",
+              "description": "Touch a target. The next attack against you affects that target instead."
+          },
+          {
+              "title": "Milo's Leash",
+              "description": "Ensnare a monster for one round. They may not make any movements or actions. The leash can be destroyed by a DC15 athletics check"
+          },
+          {
+              "title": "Catch you on the flipside",
+              "description": "During your next action, turn one rolled die to it's oppositeside"
+          },
+          {
+              "title": "Power Nap",
+              "description": "You close your eyes briefly and gain the benefits of a short rest instantly"
+          },
+          {
+              "title": "Wave of Success",
+              "description": "Add +3 to a check of your choice to a teammate with a wave of your hand"
+          },
+          {
+              "title": "Interwebs",
+              "description": "You are covered in spiderwebs, but instantly pass your next intelligence check"
+          },
+          {
+              "title": "Dreams of Bingle",
+              "description": "One enemy starts dreaming of Bingle and loses 1 turn"
+          },
+          {
+              "title": "The Midas Touch",
+              "description": "On your next attack receive an amount of gold equal to the damage of the attack"
+          },
+          {
+              "title": "Keep it Foxy",
+              "description": "A fox appears next to you and grants you +2 to your next wisdom skill check"
+          },
+          {
+              "title": "Sweet Tooth",
+              "description": "Next time you eat, heal or 5 health"
+          },
+          {
+              "title": "Colcy Charcuterie Plate",
+              "description": "A stylish selection of meats and cheeses originating from the signature farms of the colcy region. Spend 1d6 minutes eating it and regain an equal number of hit points."
+          },
+          {
+              "title": "Respectable Spectacles",
+              "description": "A pair of thick glasses that give the wearer +2 to insight checks"
+          },
+          {
+              "title": "Bountiful Brochure",
+              "description": "You pick up a discarded pamphlet that has so many coupons! You can successfully barter the price of any shop item down by 50%"
+          },
+          {
+              "title": "A Holy Hole",
+              "description": "A hole radiating with bright divine energy. It is 1d6 feet deep and 1d10+2 feet wide and can be placed on any flat surface. Once placed, it remains there forever."
+          },
+          {
+              "title": "Disposable Cookware",
+              "description": "Magical pots and pans turn anything throw at them into a delicious meal. Eating this meal during a short rest heals the party an additional +5HP. But eat fast, cause the cookware disintegrates upon use."
+          },
+          {
+              "title": "Spyglass",
+              "description": "Two identical shards of glass. Looking through one wil allow you to see out the other."
+          },
+          {
+              "title": "WILD Card",
+              "description": "This card can be used to reroll a crit 1 but in doing so the next Crit 20 must be rerolled too"
+          },
+          {
+              "title": "Legion",
+              "description": "Before you read outloud turn to the player beside you and ask them to name a small animal. That animal appears until there are exactly 100 of them. They have a life span of 1D4 minus 1 minutes."
+          },
+          {
+              "title": "Roll in the Box",
+              "description": "I find a box with a roll inside eat it to heal one D6 health, you must make this roll in the box."
+          },
+          {
+              "title": "What your Elven Eyes See",
+              "description": "You eyes bloom with power. Automatically pass your next perception or investigation checks."
+          },
+          {
+              "title": "I Could Have Had a D8",
+              "description": "After you next roll you can slap your forehead as if you've forgotten something, Then roll a D8 and add that to it."
+          },
+          {
+              "title": "Spatula of Flipping",
+              "description": "On use a spectral floating spatula appears and will flip upside down an object 400 lbs or less. If used on a creature theyre knocked prone or must pass a dex save or take 1 D4 damage."
+          },
+          {
+              "title": "Lucky Copper Coin",
+              "description": "Well would you look at that a shinny copper coinf. Plus 5 on you rnext skill roll"
+          },
+          {
+              "title": "The Poetry Book",
+              "description": "Out of the amulet comes a tick, quickly biting you in the neck, for the next 5 turns your party will learn, you may only talk in limericks."
+          },
+          {
+              "title": "Fields of Love",
+              "description": "Choose a target. That target rolls 2 D4 and gains that much HP."
+          },
+          {
+              "title": "One More Time",
+              "description": "The next time you roll a Nat 1 reroll."
+          },
+          {
+              "title": "Shake it off",
+              "description": "The haters gonna hate hate hate, but you just shake it off. Successfully pass a saving throw of your choice."
+          },
+          {
+              "title": "Kitty Laser Pointer",
+              "description": "Shine the light from this ingenious gadget on any creature within in your field of vision, and Siv would get one free claw attack on it. It has three charges."
+          },
+          {
+              "title": "Fires of the Nine Hells",
+              "description": "For one round when you enter combat you or a team mate of your choice's weaponds suddenly burst into flames and 1D6 fire famage is added to it's attack."
+          },
+          {
+              "title": "Opposites Attract",
+              "description": "unread will be read after it happens"
+          },
+          {
+              "title": "May Your Enemies Die at Your Feet",
+              "description": "The next time an enemy goes to 0 hit points for any reason. It is magically transported across the battlefield to right infront of you."
+          },
+          {
+              "title": "Fates Decide",
+              "description": "If drawn on combat this effect happens immediately. (to be read on next combat)"
+          },
+          {
+              "title": "Hydration Salvation",
+              "description": "Before your next action you take a swig from your canteen. Taste a hint of lime and feel unusually refreshed. Heal 5 hit points. If at max hit point, a watery shield protects you worth 5 hit points. "
+          },
+          {
+              "title": "New Catch Phrase",
+              "description": "Make up your own new catch phrase. Instantly charm or intimidate the character you say it too."
+          },
+          {
+              "title": "The Pineapple-potato Squid",
+              "description": "A squid made of potato & pineapple lands at your feet, eat it for 1d6 HP or use it as a weapon with 1d6 Bludgeoning dmg"
+          },
+          {
+              "title": "GummiBerry Juice",
+              "description": "A vial of potion that, once consumed, gives you the ability to bounce around for 2 actions, in or out of combat. You can bounce 30 feet in any direction (including up). If you are pushed or thrown into something, you will bounce off of it in the opposite direction. Blunt weapons, unarmed attacks, and blunt projectiles will also bounce off of you"
+          },
+          {
+              "title": "The Power of Carrots Compels You",
+              "description": "The recipient gets increased passive perception for an hour"
+          },
+          {
+              "title": "Spectral Mount",
+              "description": "The ghost of a long dead steed appears underneath you, doubling your speed for one move"
+          },
+          {
+              "title": "Time-out",
+              "description": "Play this card on your turn during a combat. You are able to enter a stasis outside the normal bounds oftime, forcing you to miss your turn, but you receive the benefits of a short rest"
+          },
+          {
+              "title": "Sky-Thighs To The Rescue",
+              "description": "After the next Initiative is made, the memory of Sky-Thighs takes shape and carries you into battle, allowing you to take an action before the top of the round. This does not alter your Initiative placement"
+          },
+          {
+              "title": "The Gods Take Pity",
+              "description": "Take an extra action to regain 1d6 HP"
+          },
+          {
+              "title": "Heels of Healing",
+              "description": "The heels of you opponent shine with healing energy. On your next attack, roll a DC15 Dex check. If you succeed, your attack lands on a precise on their heels that is glowing. Your DMG returns to you as health"
+          },
+          {
+              "title": "Love Bites",
+              "description": "The DMG of the next enemy attack against you turns into healing instead. Maybe they really like you"
+          },
+          {
+              "title": "You Shall Not Pass",
+              "description": "Protecting your friends is the greatest strength there is. Shield one player from an attack but take the DMG yourself"
+          },
+          {
+              "title": "That Fahima Touch",
+              "description": "In the midst of battle, a chosen opponent suddenly stops fighting and shouts “WAIT! They might want to be friends!”,  healing the holder of this card 1d6 HP before shaking it off and getting back to the fight"
+          },
+          {
+              "title": "Light As A Feather, Stiff As A Board",
+              "description": "he party gathers in a circle, touching two fingers -index & middle- together chanting, “Light as a feather, stiff as a board”. Whatever person or object they are concentrating on within the circle is levitated one foot, regardless of weight, and can be moved ¼ the speed as long as the group holds concentration and the circle remains unbroken"
+          },
+          {
+              "title": "Illithid's Indemnity",
+              "description": "A thick layer of Mucus covers your body, reduce melee damage by 2 for one round."
+          },
+          {
+              "title": "Safety Dance",
+              "description": "you can use your action to perform a safety dance, but only if the player dances, one other player may join you  if they do, you both get +2 to their ACs"
+          },
+          {
+              "title": "Revenge of the Siv",
+              "description": "Suddenly a chosen opponent begins to cough and choke and cough up a Siv colored furball taking 1D4 points of damage."
+          },
+          {
+              "title": "Range Rover",
+              "description": "You get double the range on your next attack"
+          },
+          {
+              "title": "That's All Folks",
+              "description": "The owner of this card can summon a huge anvil above an opponent.The anvil will drop suddenly and can not be avoided. It will land on their foot causing 1D4 points of damage and pins them to the floor for one round"
+          },
+          {
+              "title": "Take Over",
+              "description": "Can turn a hostile creature over to the players side for one round. Roll a D20 if you roll higher than a 10 you succeed, if you roll these then a 10 then you attack your own party"
+          },
+          {
+              "title": "Glow of Protection",
+              "description": "A beautiful glow appears around you for 1D4"
+          },
+          {
+              "title": "May the Fours Be With You",
+              "description": "add a D4 to an Attack Roll or Saving Throw or Proficiency Check"
+          },
+          {
+              "title": "I Smite Thee",
+              "description": "The Gods of the Timestream gain 1 smite.that They can use on whomever they want. whenever they want. A Smite does 1D20 radiant damage and may only be used once."
+          },
+          {
+              "title": "James Librarian Stare",
+              "description": "Opponent take 1D10 necrotic damage and loses a turn"
+          },
+          {
+              "title": "Jorl's Curse",
+              "description": "You can choose to suceed on any attack roll or Saving throw at the cost of 1D8 hit points.....Life is Pain"
+          },
+          {
+              "title": "Honkers Healing Happiness",
+              "description": "If the player lets out a huge Honker laugh, they feel the happiness of the cheerful pirate and heal 1d10 HP. Hee Hee Hee, not gonna die"
+          },
+          {
+              "title": "A Circumspect Sandwich",
+              "description": "A suspicious sandwich appears. If you choose to eat it, roll a d4. 1) +5 temporary HP. 2) Vomit and go prone. 3) Automatically pass the next ability check. 4) Roll a d8 and heal that amount. This sandwich will disappear after the next long rest if not eaten"
+          },
+          {
+              "title": "Spongeblob Wetpants",
+              "description": "The owner of the card can create a huge wet seas sponge under a chosen person to cushion a fall. Roll 1d6. 1-3) the player takes half the potential DMG. 4-6) they take no DMG. Ether way they have wet pants... Eeeeew!"
+          },
+          {
+              "title": "Hospitality of Bingle",
+              "description": "If you find yourself camping in a place that may hold overnight danger, use this card to pop up a 10x20 room with 4 bunk beds. Bedding and linens smell of the fresh sea air.  And spectral turn-down service is provided. The room is weather-proof and only invited guests may enter. Disappears after a full rest is completed"
+          },
+          {
+              "title": "Damage of Evil",
+              "description": "When a Force of Evil is played, you can roll a d20. Take that much DMG and negate the Force of Evil"
+          },
+          {
+              "title": "The Healing Rain",
+              "description": "A blue cloud appears above with a radius of 15-feet. A blue rain falls and anyone under the cloud including foes gets 1d20 health. All healed will glow with a noticeable blue aura for 30 minutes"
+          },
+          {
+              "title": "Call Me on My Shellphone",
+              "description": "This pink conch shell can be used to send a message, privately and directly, to one other player. But it “conchs” out after one use"
+          },
+          {
+              "title": "Waiting To Exhale",
+              "description": "You can hold your breath for a number of minutes equal to your highest ability score, but if you speak or attack any time within this duration, the effect ends"
+          },
+          {
+              "title": "Keno's Test",
+              "description": "A Dummy appears covered in bells and you have a chance of proving yourself worthy of joining the Foot. You have 15 seconds to make as many DC15 Dec checks as possible to collect the bells. The rolls must be made in the box with no modifiers. Each success up to 5 nets 25 gold pieces. Each after 5 is 50 gold pieces. Don't let Raph down"
+          },
+          {
+              "title": "Delay The Inevitable",
+              "description": "Prevent any creature or character from taking their next turn. The following turn, they may use two actions"
+          },
+          {
+              "title": "Life is Pain",
+              "description": "Your foe has suddenly had a change of outlook on their life, they take 1d6 worth of Psychic DMG and smile"
+          },
+          {
+              "title": "Mint of Embrace",
+              "description": "A mint that when eaten, allows the consumer to choose a target to become love-drunk. That target can cause 0 harm to you for one turn"
+          },
+          {
+              "title": "The Castle Rum",
+              "description": "A magical mug of rum appears in front of you, if you can drink it and make a DC15 Con save, your speed increases by 12 for one turn. Upon failure, you can't hold your liqueur  and your speed becomes 0 for one turn and you try not to puke"
+          },
+          {
+              "title": "Curse of Loudmouth the Mute",
+              "description": "The player can call on Loudmouth the Mute to curse an enemy with silence for one round"
+          },
+          {
+              "title": "Ain't You A Little Short for a Storm Warden?",
+              "description": "The power of the Storm Warden suddenly flows through you. Add 1d6 Lightning DMG to your next DMG roll"
+          },
+          {
+              "title": "Tougher Together",
+              "description": "As a reaction, redirect half the DMG taken by any other character to me"
+          },
+          {
+              "title": "Blood Donor",
+              "description": "Take the damage you recieved from an attack and distribute it among the players, but NOT yourself, as healing"
+          },
+          {
+              "title": "Together Forever",
+              "description": "Take the damage from one attack and spread it between all players (I.E. if you take 15 points of damage all players take 3 damage)"
+          },
+          {
+              "title": "Fahima's Flame Cupcakes",
+              "description": "you eat one of Fahima's cupcakes and then add 1D6 fire damage to your next melee attack"
+          },
+          {
+              "title": "The Watchers Healing",
+              "description": "The Gods take pity on a creature and heal it for 1D12"
+          },
+          {
+              "title": "Lyre Lyre Pants on Fire",
+              "description": "A Lyre appears in your hands and you play a little ditty. An enemy's pants, or legs if the creature doesn't wear pants,causing 1D8 damage"
+          },
+          {
+              "title": "The Fore Finger of Fury",
+              "description": "Point at a creature, it MUST move towards the character pointing and attempt an attack."
+          },
+          {
+              "title": "Rock, Paper, Scissors",
+              "description": "Play Rock Paper Scissors with the DM the loser takes 1d12 damage of the winners choice (Bludgeoning, Slashing, Piercing)"
+          },
+          {
+              "title": "Spin to Win",
+              "description": "Make one Melee attack to all creatures within range"
+          },
+          {
+              "title": "Continuous Attack",
+              "description": "Roll 1D20 until you get a nat 1. for every roll made before the nat 1 do 1 point of damage to a creature within Melee range of you, if a Nat 20 is rolled add 2 points of damage instead of 1"
+          },
+          {
+              "title": "Ah Ah Ah Choo",
+              "description": "You sneeze on an opponent and make him blind for 1 round, Those that don't say \"Bless You\" are given 1D4 splatter damage"
+          },
+          {
+              "title": "Can't Touch This",
+              "description": "You pants become baggy and shiney and you begin to dance like MC Hammer (shuffling back and forth)and enemies can not attack you this round"
+          },
+          {
+              "title": "Barrel of Monkeys",
+              "description": "a small barrel appaers and out jump 1D12 monkeys who attack an opponent for 1 point per monkey"
+          },
+          {
+              "title": "Gift Shop Flute",
+              "description": "You hear the dumblestock clan playing flute regain 1D8 health"
+          },
+          {
+              "title": "Dancing Blades",
+              "description": "Spinning blades appear over you and reduce the amount of incoming damage by 1D6+2"
+          },
+          {
+              "title": "Epipen",
+              "description": "A magical Epipen for Pineapple alergies"
+          },
+          {
+              "title": "Never Tell Me the Odd",
+              "description": "For the rest of the Playsession if you roll an odd number add 1 to it"
+          },
+          {
+              "title": "Block of Mystery",
+              "description": "A gold cube appears inside is a... roll 1D4. 1"
+          },
+          {
+              "title": "CAPS LOCK IS ON",
+              "description": "One time only"
+          },
+          {
+              "title": "The One Legged Grandma",
+              "description": "A slot machine that looks like Granny Dumblestock appears"
+          },
+          {
+              "title": "Error 404",
+              "description": "Draw Another FoG card"
+          },
+          {
+              "title": "Daft Helmet of Punktuality",
+              "description": "This helmet reduces casting time of a ritual by 50%"
+          },
+          {
+              "title": "Force Balance",
+              "description": "Change your next roll to a Natural 20, the player on your left must change their next roll to a Natural 1"
+          },
+          {
+              "title": "A Hopeful Hand",
+              "description": "If you don't like your roll of a Die choose a player to roll the die instead"
+          },
+          {
+              "title": "Eye of the Tiger",
+              "description": "During your next combat round add +3 to your attack roll if the equals 20 then it is a Natural 20"
+          },
+          {
+              "title": "Lord Arraban's Brains",
+              "description": "+10 to any intelligence check"
+          },
+          {
+              "title": "Epically Clumsy",
+              "description": "Next time you roll a 1 treat is as a success but in the most clumsy and outrageous way possible"
+          },
+          {
+              "title": "Love Hurts",
+              "description": "You walk up to a willing creature. Compliment thema dnthen slap them which heals them for 1D8 hit points."
+          },
+          {
+              "title": "Gaze of the Gorgon",
+              "description": "you meet a opponant's eyes, they must make a DC15 Constitution save of lose all actions until the end of the next card holder's turn"
+          },
+          {
+              "title": "A Blink and Two Flashes",
+              "description": "When you have to roll a D20 roll 2D12s instead and add the two numbers together"
+          },
+          {
+              "title": "The Scroll of Truth",
+              "description": "A scroll appears and if you read it you will learn a random detail about any one creature you can see."
+          },
+          {
+              "title": "Fear of Doom",
+              "description": "You sense the next combat before it happens you go first in the iniative order and automaticly hit with your first attack."
+          },
+          {
+              "title": "Fake Fire Perfect Pretzels",
+              "description": "Next Fire attack coming form an enemy is changed midair to perfectly cooked pretzels that fall at your feet. If you eat them, eat a real pretzel to signify this, you can heal for 1D8 and kick in Jeff's OCD"
+          },
+          {
+              "title": "The Power Of Twinsen",
+              "description": "You may attempt to turn a FoE into a FoG. Roll Blue Thunder in the box-Even discard the FoE and draw a FoG, Odd Keep the FoE and add another FoE"
+          },
+          {
+              "title": "Secret Room Side Hustle",
+              "description": "When a player goes into the secret room every 5 seconds they are in the Secret Room roll a D12 the total number rolled is added to your gold. Share if you would like."
+          },
+          {
+              "title": "Let the Dice Roll",
+              "description": "on your next D20 roll all the other party members rolla D4 and you add the highest D4 die roll to your D20 roll."
+          },
+          {
+              "title": "Deduce yourself",
+              "description": "You succeed your next investigation check with an Awesome (nat 20)"
+          },
+          {
+              "title": "Worms, Oh God Worms",
+              "description": "Your eyes are covered with worms, you cant see through them but they grant you the ability to see in Darkness, even magical darkness. If you wear them too long they begin to feed"
+          },
+          {
+              "title": "Sly Fox",
+              "description": "You catch a glimps of a fox add 3 to your next  Stealth check"
+          },
+          {
+              "title": "Loudmouth's Revenge",
+              "description": "You gain the ability to remove the tongue out of an opponent you can see rendering them mute for eternity"
+          },
+          {
+              "title": "One Stop Shop",
+              "description": "You may buy one item from the equipment list at any time."
+          },
+          {
+              "title": "Trade Off",
+              "description": "This card allows you to replace a FoG with a new FoG"
+          },
+          {
+              "title": "Inspire the Inspirer (Not for Lily)",
+              "description": "The player gains one Bardic inspiration to give out as they see fit"
+          },
+          {
+              "title": "Slippery as an Eel",
+              "description": "A bowl with an Eel appears if you eat the Eel you automatic succeed in your next save vs. grapple"
+          },
+          {
+              "title": "Counter Counter",
+              "description": "When your Timestream advantage is canceled by a Time Stream disadvantage roll with advantage anyway."
+          },
+          {
+              "title": "T-Shirt Cannon",
+              "description": "A hand cannon appaers if you shoot an ally the get a Lord A T-Shirt and +3 to their AC for the next attack"
+          },
+          {
+              "title": "Lord Brony",
+              "description": "small chest with my little pony dolls and 4D12 of gold coins. Take the coins-the chest and ponies disaappear"
+          },
+          {
+              "title": "Is Siv Purring?",
+              "description": "Siv starts purring players make a dc 15 Perception check, iof they succeed they get 1D4 of healing. Siv get 1D6"
+          },
+          {
+              "title": "Prims Pinerumple",
+              "description": "a mug of no rum Pinerumple asppaers in your hand. drink it and gain 1D8 healing and puts a smile on your face while you hear Prim's giggle."
+          },
+          {
+              "title": "Huggo from Uggo",
+              "description": "Hug Uggo and gain +1 to your next Str check"
+          },
+          {
+              "title": "At Your Service",
+              "description": "Burly women appears to carry whatever you hand her for 24 hour"
+          },
+          {
+              "title": "The Moustache of Charisma",
+              "description": "You grow a Moustache and gain +3 on your next Charisma check"
+          },
+          {
+              "title": "Mr. Whispers Time to Shine",
+              "description": "Mr. Whispers sneaks out of the pocket goes into an enemies pocket and steals 1D10 gold coins then returns to safety"
+          },
+          {
+              "title": "Pause that Force",
+              "description": "With this card you can pause a FoG or FoE from happening, it will still happen this episode but you decide when."
+          },
+          {
+              "title": "No U",
+              "description": "A spell that hits you also hits the caster. This can be used after the saving throw."
+          },
+          {
+              "title": "The DM Wants to Play",
+              "description": "The DM may take control of any one Character for One round."
+          },
+          {
+              "title": "For the Love of Meep",
+              "description": "A Meep treat appears, if you feed it to Meep you gain 5 hit points."
+          },
+          {
+              "title": "The Prestige",
+              "description": "Do not read until card takes effect"
+          },
+          {
+              "title": "Lily's Steel Gaze",
+              "description": "Stare at a oponent, their movement stops and they can take no action as you are locked in a staring contest until your next turn otr they are attacked"
+          },
+          {
+              "title": "Closeline",
+              "description": "you your next sucessful attack of opportunity the creature stops all movement and is knocked prone"
+          },
+          {
+              "title": "Hoard of the Hellhound",
+              "description": "summons a pack of lava wolves to protect the party and give all attackers disadvantage for one round"
+          },
+          {
+              "title": "The stuff inside stretch armstrong",
+              "description": "the 80s were good to us a stretch armstrong doll that looks like mini Uggo appears in front of you. You pull his arms but unfortunately breaks apart and purple ooze explodes from him. Is it good? Is it evil? Let the dice decide. Rolla D6. 1-3 Evil = damage, 4-6 Good = healing."
+          },
+          {
+              "title": "Community Chest",
+              "description": "How did this card get in the deck? You have one second price in a beauty contest. Collect 10 gold."
+          },
+          {
+              "title": "Mr. Whisper's goes fishing for treasure",
+              "description": "A fishing rod appears with a tiny mouse sized harness at the end of the line. Place Mr. Whisper's on the harness and you can cast the now concerned looking mouse in silence, to attempt to retrieve what your heart desired without the fear of being spotted. One time use. Please give Mr. Whisper's a lump of bread for his efforts."
+          },
+          {
+              "title": "Diet Free Arrabann",
+              "description": "A delicious brain of an unkown species drops from the sky. It must be a gift from the Lord Arrabann himself. Eat it to restore 10 hit points."
+          },
+          {
+              "title": "Phoenix Down",
+              "description": "The radiant warmth of Meep's soft down invigorates your fighting spirit. Reroll 1 saving throw on yourself or a chosen companion however, Meep revers to egg form."
+          },
+          {
+              "title": "You must be Dave's friend",
+              "description": "If discovered or a stealth deception roll fails, the target assumes, \"You must be Dave's friend. Everyone knows a Dave.\" They will either forgive your clumsy move against them, or not report anything allowing you to continue your action undetected."
+          },
+          {
+              "title": "Fizzle Gambit Crossbow",
+              "description": "A magical crossbow appears in front of you.You may shoot a single magic bolt that finds your enemies' vulnerability and make your next act an awesome. But it will reduce your health to one hit points. Results may vary pain is guaranteed."
+          },
+          {
+              "title": "I choose you",
+              "description": "Player is granted mystical powers to choose any party ember to reroll a single dice."
+          },
+          {
+              "title": "Hey Friend",
+              "description": "not read"
+          },
+          {
+              "title": "Chicken chaser",
+              "description": "Find the elusive foul of Fortuna, who's feather bring luck and riches to whoever has them. Chicken runs and disappears leaving only a single feather. wearer gets 50% more gold the next time they find some."
+          },
+          {
+              "title": "By Grabthar's Hammer",
+              "description": "If an ally is reduced to 0 Hit Points in combat, you may use your reaction to move up to movement speed regardless if you already made a movement this round and make an immediate attack against the foe who downed your ally. You must shout, \"By Grabthar's hammer and the sons fo Warvan, I will avenge you!\""
+          },
+          {
+              "title": "Meep's Disguise",
+              "description": "Out of the amulet appears a small one time use brd costume which will disguise Meep into any other bird with similar size. Requires a DC13 insight check or a DC11 invistigation check. If detect magic is running these checks gets a plus 5."
+          },
+          {
+              "title": "Grammy's Morning After Drink",
+              "description": "A mug of Grammy Dumblestucls' famous morning after drink appears. Drinking it heals you 1D4 and cures any one condition."
+          },
+          {
+              "title": "Stop Drop and Roll",
+              "description": "The next time you are dmage bu fire in combat, you remember just what ot do. You stop moving, drop to the ground, cover your face, and roll around, to put out the fire. This reduces damage from the fire by half and you move 15 ft and enemies within 15 ft knocks them prone."
+          },
+          {
+              "title": "Candle Queen",
+              "description": "Roll 1D20 in the box. If Even the Candle Queen Amanda will light an extra candle on her next trip out. If odd She grants you +5 fire damage to your next attack"
+          },
+          {
+              "title": "Just a Flesh Wound",
+              "description": "When you take damage, on your next turn heal back half unless your unconscious"
+          },
+          {
+              "title": "Shibata's PK",
+              "description": "When an enemy, within your movement range, falls prone dash to that enemy and perform a soccor kick to the enemy's head. On a sucessful DC15 Dex check do 1D6 per 5 feet travelled"
+          },
+          {
+              "title": "Wind at Your Back",
+              "description": "Double the speed of the boat you are on for a short time."
+          },
+          {
+              "title": "Bingle's Rebirth",
+              "description": "Winds swirl around you and all allies with in 30 feet. All those in the winds are granted a +1 to their next roll"
+          },
+          {
+              "title": "High Seas Happy Meal",
+              "description": "meal cooked up by Olo. eat it and get back 1D8 temp hit points"
+          },
+          {
+              "title": "Whip Swing",
+              "description": "swing across a normally difficult gap or hole without the need of a roll"
+          },
+          {
+              "title": "Punning Strike",
+              "description": "If you make a pun about yourself/the monsters/the situation and hit with your next attack then add1D6 physic damage unless the pun was bad and then The enemy takes no extra damage, just the Watchers of the Timestream take the Physic damage"
+          },
+          {
+              "title": "Can't Stop the Feeling",
+              "description": "Everything stops and Everyone takes a twenty second dance break"
+          },
+          {
+              "title": "Sling it like Siv",
+              "description": "point at a target, a life bouy appears and lands on the target"
+          },
+          {
+              "title": "Ice Ice Baby",
+              "description": "You create a sheet of ice under one opponent, They make a DC13 Dex Save or fall prone, lose half movement getting off ice with a sucessful save"
+          },
+          {
+              "title": "Role in the Box",
+              "description": "Next attack roll in the box, say two numbers in a voice different from your Character if either of those numbers or a twenty comes up then treat it like an awesome"
+          },
+          {
+              "title": "Whispers in the Dark",
+              "description": "Mr. Whispers has once again gone off and stolen something the party needs, and has hidden it on you, +3 to your next skill check."
+          },
+          {
+              "title": "Hammer Time",
+              "description": "You strike for an extra 1D4 of damage but are deafened for 1 round becuase of loud music"
+          },
+          {
+              "title": "Illithid's Indemnity",
+              "description": "You are covered in a thick layer of Mucus, subtract 2 off your next Melee damage on you.."
+          },
+          {
+              "title": "The Grimm Couple",
+              "description": "You gain a second attack for one combat round"
+          },
+          {
+              "title": "Totally Rad Punch",
+              "description": "make an unarmed attack"
+          },
+          {
+              "title": "Cheeto Dragon",
+              "description": "A Cheeto Dragon appears in your next combat doing 1D8 fire/spicy damage"
+          },
+          {
+              "title": "Ain't No Party Like a Warlock Party",
+              "description": "Inky black tentacles reach upo from the ground pulling a chosen enemy. Enemey must make a DC13 dex save of fall prone"
+          },
+          {
+              "title": "Blood Smoothie",
+              "description": "A red smoothie appears in your hand, drink it regain 10 hit points. The flavor is not strawberry."
+          },
+          {
+              "title": "The Bane of Dufo",
+              "description": "The Spirit of Dofu appears anbd throws a bottle of perfume on an enemy causing 1D8 poison damage."
+          },
+          {
+              "title": "General Marklar's Bag O' Kittens",
+              "description": "A bag with 1D6 Bingle Kittens, that do one point of damage to an enemy, If anyone sqeeed when the card is read add 1 kitten."
+          },
+          {
+              "title": "The Snooze Button",
+              "description": "A button with the waord pause written onit appears. If you preess it any FoE card's effects are delayed 10 minutes."
+          },
+          {
+              "title": "Mr. Whisper's Escape Pod",
+              "description": "A small card sized object with a tiny mouse door appears. Through the door is a portal to a pocket dimension with a small comfy bed and a magic cupboard with infinite tiny bread rations, water, and cheese. Fits neatly in the pocket of the player holding the card. In the event of a TPK this will allow the little mouse to escape unharmed. Mr. WHisper's will survive. HE. WILL. SURIVIVE."
+          },
+          {
+              "title": "Happy Together",
+              "description": "An image of a dog and an Owlbear frolicking together appears before you. This makes you so happy that you're healed for 1D8."
+          },
+          {
+              "title": "Stick 'em up",
+              "description": "Appears as small squeezible tube. It is an adhesive tape that allows you to stick any two objects together for a short time. One time use."
+          },
+          {
+              "title": "General Marklar's Bag of Puppies",
+              "description": "A bag appears of 1D8 cute puppies, add 1 for any squeeing. When opened the puppies will unleash 1 damage each and disappear before Jeff gets a chance to emulate them."
+          },
+          {
+              "title": "A test of Siv's",
+              "description": "Four safes appears on the ground in front of Siv. For any safe Siv successfully picks a lock on without any advantages or disadvantage, he receives the following: 1. DC10 - 2. 15 gold 3. DC 20 4. DC 25"
+          },
+          {
+              "title": "Hicklefist's Look",
+              "description": "At any point in the game you are able to communicate a thought with another player through only a quick glance. No words necessary your eyes say it all."
+          },
+          {
+              "title": "In a Morph",
+              "description": "When this card is played you can morph to any animal. This follows the rule of a  Druid wild class feature level 4+ please see page 66 - 67 of the 5e player's hand book."
+          },
+          {
+              "title": "Would it help if I got out and pushed?",
+              "description": "Any conveyance air water land that carries the entire party can double its movement speed for a short time. At the end of this burst of speed, with a strange clang of metal on metal banging out the vehicle's movement speeed will be cut in half for the same amount of  time if it had been accelerated."
+          },
+          {
+              "title": "I wear my Sunglasses at Night",
+              "description": "A pair of sunglasses appears on the card holder's face and they have dark vision for 30 minutes."
+          },
+          {
+              "title": "Storm War Den",
+              "description": "Can only be used when raining if you have at least 1 minute in the rain you may call uppon the storm War Den. A room appears full of comfortable sitting, a mini bar, and a barrel full of towels. Up to 10 people may occupy the room, dry off and gain the benefits of an instant short rest."
+          },
+          {
+              "title": "As Hard as Dragon Scales",
+              "description": "That attack could have scewered a wild boar. Wait a minute how did that get there? On the next attack that would bring you below zero hit points you instead replace your health with 1D4 and are dazed for the next round."
+          },
+          {
+              "title": "Bingle Battle Bangle",
+              "description": "You get a small bracelet proclaiming you to be one of the saviors of Bingle. You may use this Bangle once to receive free lodging at any Inn in Aein which would destroy it, you may also receive free drink in any Port town while wearing the bangle"
+          },
+          {
+              "title": "Fire Dire",
+              "description": "A small vial appears in your hands containing a dark powder, dumping this on a fire or fire creatre will cause the flamse to turn pitch black absorbing light instead of making it. This effect will last until death or extinguishment of the flame."
+          },
+          {
+              "title": "My Good Side",
+              "description": "You always look great. The lighting is aking you lok so GOOD right now. Plus 3 to the next time you try to charm a creature."
+          },
+          {
+              "title": "We All Scream for Ice Cream",
+              "description": "You have a chouce of two options 1. Out of combat you can create an ice cream wagon to appear everyone can now enjoy a free magical dessert that can restores 1D10 hit points. 2. In combat send the ice cream wagon by to lure a target away from you as they rush off to buy one for themselves. they roll a D12 Wisdom saving throw and a failed save they chase the wagon for 1 round."
+          },
+          {
+              "title": "Beast Mode",
+              "description": "Play this card when rolling initiative. Name a round of combat, take no damage of attack from that raound."
+          },
+          {
+              "title": "You don't need the sunshine",
+              "description": "You are imbued with Fahima's unwavering fascination with monsters. Your next investigation or nature check against an unknon creature is an awesome. If Fahima uses this card Jeff must also do his best imitation of what the creature sounds like."
+          },
+          {
+              "title": "Necromancer's ritual",
+              "description": "A stillness fills the air as an eerie feeling creeps down the party's spine. Any fallen enemy anywhere in the map is raised from the dead with the same stats before death."
+          },
+          {
+              "title": "Tin of Delectable Frosting",
+              "description": "A tin of frosting pops out of the amulet when applied ot any food item rotten, raw or otherwisem it adds 1D8 food recovery from that food item."
+          },
+          {
+              "title": "Mostly Platonic Kiss of Blessing",
+              "description": "Imbues the user with the power of the 'friend zone'. To power their lips to heal one ally of one negative effect or 1D10 hit points with a kiss."
+          },
+          {
+              "title": "Ain's Got Talent",
+              "description": "It's time for the dice to strut their stuff. Grab 1 die from each  member of your party but they all must be different: D10 D12 D20 etc. Each die is up for audition. and the one that lands the highest gets the golden buzzer and is the number used on your next roll. Player's choice: initiative investigation etc"
+          },
+          {
+              "title": "A Woman's Bestfirend",
+              "description": "On you next attack the spirit of Scurvy the dog suddenly appears to fight by Fahima's side add 1D4 to your attack roll as Scurvy helps the party. Proof that a dog is trualy a woman's bestfriend too."
+          }
+      ],
+      "evil": [
+          {
+              "title": "Stubbed Toe",
+              "description": "Lose two hitpoints"
+          },
+          {
+              "title": "Drunk",
+              "description": "You are instantly and thoroughly drunk. You immediately say something you regret. You also have a disadvantage on all attacks, checks, and saving throws for 1 d4 routes, at which point you vomit and the condition ends."
+          },
+          {
+              "title": "Voices",
+              "description": "You hear voices in your head. Are they singing? No. Talking? No. Wait... Definitely singing. -5 on all rolls for 1 round."
+          },
+          {
+              "title": "Clumsy",
+              "description": "The next time you're adjacent to a team mate, you accidentally hit them with your weapon."
+          },
+          {
+              "title": "Exhaustion",
+              "description": "Your body and mind are suddenly weary and your next attack does not land with the force you expect. -2 on next DMG roll"
+          },
+          {
+              "title": "The Curse of Siv",
+              "description": "For one hour you are at a disadvantage to all skill checks you have proficency in"
+          },
+          {
+              "title": "Crosseyed",
+              "description": "You suddenly become croseyed for 1d4 rounds. Attacks and Perception Checks are at disadvantage."
+          },
+          {
+              "title": "Lord Arrabanns Diet",
+              "description": "You have ingested a bad mushroom. -2 to all dexterity related rolls, and +1 to charisma related rolls for 5 rounds."
+          },
+          {
+              "title": "Bee Speech",
+              "description": "A bee flies out of the amulet and stings your tongue. Take disadvantage on next charisma skill check"
+          },
+          {
+              "title": "Stick of Holding",
+              "description": "You are given a green glowing stick and whoever first touches it is infatuated with it and cannot let go of it until the end of the next combat or long rest."
+          },
+          {
+              "title": "Revenge of the Suth",
+              "description": "The ghost of Suth emerges to enact revenge on the heroes immediately attacking one of them from stealth."
+          },
+          {
+              "title": "Magnetic Attraction",
+              "description": "You and the party closest to you have magnetic leg bracelets attached to you out of nowhere, and they pull you together. You must now move together for the current and next initiative phases at quarter speed and both have negative 3 to the roll."
+          },
+          {
+              "title": "Start your Sentience",
+              "description": "your weaponds or clothes, if you have no weaponds, gains sentience for 1 D4 rounds, and must be convinced to do your bidding. "
+          },
+          {
+              "title": "Angry Letter to Fahima",
+              "description": "A terse note from Fahoolie Nobody, yes she is a real person of Ain evidently. Your next roll has disadvantage"
+          },
+          {
+              "title": "Lily's Kryptonite",
+              "description": "Sprays a gas cloud of pineapple mist in the direction of Lily"
+          },
+          {
+              "title": "DumbleStuck",
+              "description": "In your next combat, you are suddenly stuck in place, you may not move unless you use your action to attempt a DC15 Strength check to pull yourself free. After 3 fails, another random character becomes stuck and must pass the same. This continues indefinitely"
+          },
+          {
+              "title": "Loudmouth's Revenge",
+              "description": "The aspect(?) of Loudmouth appears in front of the characters. He speaks into their minds and lets them know he was still alive and they could have saved him. All player take 1d8 psychic DMG and their mouths are fulled with saltwater"
+          },
+          {
+              "title": "???",
+              "description": "Roll 1d4. You are crazy due to overwhelming knowledge. The next attack from one of your friends, you leap in front of and take yourself. Your 1d4 roll determines who"
+          },
+          {
+              "title": "Safe Word \"Hamlet\"",
+              "description": "The holder of this card believes that Fahima has called Hamlet and so stops their planned action"
+          },
+          {
+              "title": "With Friends Like These",
+              "description": "a party member rolls 1D6 and you lose that many hit poiints"
+          },
+          {
+              "title": "Double Your trouble",
+              "description": "Draw two FoE cards-not counting this one"
+          },
+          {
+              "title": "Oh Balls!",
+              "description": "Metal Ball bearing fall from your pants causing you to fall prone"
+          },
+          {
+              "title": "Run DMC",
+              "description": "During the next combat all DM controlled critters(Monster, NPCs, etc) use Dash without using any actions to do so."
+          },
+          {
+              "title": "The Taxman",
+              "description": "roll 1D6 1-3 lose 20% of party gold, 4-6 lose 10% of party gold"
+          },
+          {
+              "title": "Hey A Rock",
+              "description": "Out of nowhere a boulder hits you reducing your health by half."
+          },
+          {
+              "title": "Pure Dread",
+              "description": "Your next attack roll has disadvantage"
+          },
+          {
+              "title": "Booty Call",
+              "description": "For the next hour you have disadvantage on any roll you would have had proficency in"
+          },
+          {
+              "title": "Austentatious Hat of Noticeabilty",
+              "description": "-2 to Stealth and intimadation until the end of the next encounter"
+          },
+          {
+              "title": "Missing memories",
+              "description": "A magic user in the party loses one readied spell foir the day"
+          },
+          {
+              "title": "Lord A Taketh Away",
+              "description": "You discard 1D4 FoG cards. If this is more than you currently have then the player to your left makes up the difference and so on until the number of cards is met."
+          },
+          {
+              "title": "Surprise Land Mine",
+              "description": "next action you take landmines appear at your feet and explode for 2D4 fire damage and you are thrown back 20 feet all adjacent characters take 1D4 fire Damage and are tossed back 10 feet"
+          },
+          {
+              "title": "Silence, I Kill You",
+              "description": "you are silenced for ten minutes and automaticly fail ANY Charisma checks during the duration."
+          },
+          {
+              "title": "Don't Knock It",
+              "description": "For the rest of the play session you must close every door you walk through even if there are people behind you"
+          },
+          {
+              "title": "Spider in Your Shoe",
+              "description": "A spider magically appaers in your shoe you MUST deal with it BEFORE any other actions."
+          },
+          {
+              "title": "Anchor's Away",
+              "description": "A magical anchor and chain appear and attach to your leg. You can only move 5 feet in the next battle."
+          },
+          {
+              "title": "A bag of unfavorable treats",
+              "description": "A small bag of candies appears and you can't resist eating one for 1D4 turns. For each candy you eat take 1D4 damage. Also the player that ate the candy has bad breath getting negative 1 charisma checks for the rest of the session."
+          },
+          {
+              "title": "Is That Gold?",
+              "description": "Gold comes pouring out of the amulet. Have another player roll 5D20 Lose that amount from the Party's gold."
+          },
+          {
+              "title": "#BlameJeff",
+              "description": "\"It's your fault, you know it's all your fault\". Next time a player strikes on of the DMs critter they do double damage"
+          },
+          {
+              "title": "Disgruntled Digit",
+              "description": "Jame's mage hand is fed up doing his master's bidding and acts up. The bearrer of the card has to take part with a rock paper scissors challenge with the DM. Every loss they receive a 1D4 damage  as the mystical hands slaps their face."
+          },
+          {
+              "title": "Do you remember the first roll?",
+              "description": "What was the number of the first rol in the Dungeon Run? If no one guesses 6. Everyone rolls a six on their next roll."
+          }
+      ]
+  }
+}

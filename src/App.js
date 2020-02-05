@@ -1,25 +1,40 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import "./styles/main.scss";
+import { BrowserRouter, Switch, Route, Link } from "react-router-dom";
+
+import Cards from "./components/Cards";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+    <main className="App">
+      <header>
+        <h1 className="title">The Unofficial Dungeon Run Fansite</h1>
       </header>
-    </div>
+
+      <main>
+        <BrowserRouter>
+          <Switch>
+            <Route path="/cards" component={Cards} />
+            <Route
+              exact
+              path="/"
+              render={() => (
+                <nav>
+                  <ul>
+                    <li>
+                      <a href="/discord">Join Discord</a>
+                    </li>
+                    <li>
+                      <Link to="/cards">Force Card Generator</Link>
+                    </li>
+                  </ul>
+                </nav>
+              )}
+            />
+          </Switch>
+        </BrowserRouter>
+      </main>
+    </main>
   );
 }
 
