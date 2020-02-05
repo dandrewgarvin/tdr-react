@@ -25,6 +25,9 @@ function App() {
                       <a href="/discord">Join Discord</a>
                     </li>
                     <li>
+                      <a href="/art">Submit Fan Art</a>
+                    </li>
+                    <li>
                       <Link to="/cards">Force Card Generator</Link>
                     </li>
                   </ul>

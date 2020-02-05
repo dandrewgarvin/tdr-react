@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+  <style>
+    html,
+    body {
+      background: #222;
+      height: 100vh;
+      width: 100vw;
+      padding: 10px;
+      margin: 0px;
+    }
+
+    .App {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+
+    header {
+      display: flex;
+      align-items: center;
+      justify-content: flex-start;
+    }
+
+    img {
+      width: 100px;
+      border-radius: 50%;
+      margin-right: 20px;
+    }
+
+    h1,
+    p {
+      color: #869fbb;
+    }
+
+    p {
+      font-size: 32px;
+    }
+
+    button {
+      height: 50px;
+      width: 200px;
+      border: none;
+      border-radius: 10px;
+      font-size: 20px;
+      cursor: pointer;
+    }
+  </style>
+
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>The Dungeon Run</title>
+  </head>
+
+  <body>
+    <div class="App">
+      <img
+        src="https://pbs.twimg.com/profile_images/1123355277267333120/UO6A1t24.jpg"
+        alt="the dungeon run"
+      />
+      <h1>The Dungeon Run</h1>
+      <p>
+        Click the link below to go to the unofficial discord channel for
+        TheDungeonRun, and submit your fan art!
+      </p>
+      <button onclick="window.location.href = 'https://discord.gg/FJKjMed'">
+        Submit Your Fan Art!
+      </button>
+    </div>
+  </body>
+
+  <noscript
+    >Please click on the link above to join our discord channel!</noscript
+  >
+
+  <script>
+    window.location.href = "https://discord.gg/FJKjMed";
+  </script>
+</html>
