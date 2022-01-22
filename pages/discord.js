@@ -1,16 +1,12 @@
 import Head from 'next/head';
 import Image from 'next/image';
-import Link from 'next/link';
 
-export default function Home() {
+export default function Discord() {
   return (
     <div className='App'>
       <Head>
         <title>The Dungeon Run</title>
-        <meta
-          name='description'
-          content='The Dungeon Runs Unofficial Fan Site'
-        />
+        <meta name='description' content='The Dungeon Runs Unofficial Fan Site' />
         <link rel='icon' href='/favicon.ico' />
       </Head>
 
@@ -20,8 +16,7 @@ export default function Home() {
         </div>
 
         <div className='actions'>
-          <Link href='/discord'>Join Discord</Link>
-          <Link href='/fan-art'>View Fan Art</Link>
+          <a href='https://discord.gg/thedungeonrun'>Join Discord</a>
         </div>
       </main>
 

@@ -1,5 +1,5 @@
 {
-  "name": "tdr-updated",
+  "name": "tdr-next",
   "private": true,
   "scripts": {
     "dev": "next dev",
