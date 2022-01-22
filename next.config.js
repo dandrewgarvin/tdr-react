@@ -12,7 +12,7 @@ module.exports = {
         permanent: false,
       },
       {
-        source: '/',
+        source: '/(.*)',
         destination: 'https://thedungeonrun.tv',
         permanent: false,
       },
