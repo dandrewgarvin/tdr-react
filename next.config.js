@@ -3,7 +3,7 @@ module.exports = {
     return [
       {
         source: '/discord',
-        destination: 'https://discord.gg/thedungeonrun',
+        destination: 'https://discord.gg/EugnUUYChT',
         permanent: false,
       },
       {
